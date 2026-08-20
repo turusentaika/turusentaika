@@ -1,7 +1,7 @@
 👾 Hi, I’m Taika
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Taika+%F0%9F%91%8B;Software+Developer+%7C+Cybersecurity+Enthusiast;Python+%7C+Web+Development+%7C+Networking;Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Web+Development;Networking;Red+Teaming;Always+Learning;Always+Building" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=turusentaika&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -24,17 +24,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=turusentaika&bg_color=00000000&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
 </p>
 
-⸻
-
-> contact
-
-<p align="center">
-  <a href="https://github.com/turusentaika">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-⸻
+————
 
 <p align="center">
   <i>“The quieter you become, the more you are able to hear.”</i>
