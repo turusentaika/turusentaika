@@ -4,27 +4,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Web+Development;Networking;Red+Teaming;Always+Learning;Always+Building" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=turusentaika&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS&count_private=true" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=turusentaika&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-⸻
+---
 
 > github_stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=turusentaika&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turusentaika&layout=compact&theme=transparent&hide_border=true&title_color=00ff9c&text_color=ffffff&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=turusentaika&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&count_private=true&v=1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turusentaika&layout=compact&theme=transparent&hide_border=true&title_color=00ff9c&text_color=ffffff&count_private=true&v=1" />
 </p>
 
-⸻
+---
 
 > contribution_activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turusentaika&bg_color=00000000&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turusentaika&theme=react-dark&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true&v=1" />
 </p>
 
-————
+---
 
 <p align="center">
   <i>“The quieter you become, the more you are able to hear.”</i>
