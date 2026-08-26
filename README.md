@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Web+Development;Networking;Red+Teaming;Always+Learning;Always+Building" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=turusentaika&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=turusentaika&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS&count_private=true" alt="Profile views"/>
 </p>
 
 ⸻
