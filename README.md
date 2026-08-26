@@ -12,7 +12,7 @@
 > github_stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=turusentaika&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=turusentaika&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turusentaika&layout=compact&theme=transparent&hide_border=true&title_color=00ff9c&text_color=ffffff&count_private=true" />
 </p>
 
