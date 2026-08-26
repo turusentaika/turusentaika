@@ -21,7 +21,7 @@
 > contribution_activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turusentaika&bg_color=00000000&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turusentaika&bg_color=00000000&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true&count_private=true" />
 </p>
 
 ————
