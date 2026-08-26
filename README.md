@@ -15,7 +15,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=turusentaika&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turusentaika&layout=compact&theme=transparent&hide_border=true&title_color=00ff9c&text_color=ffffff" />
 </p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=turusentaika&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&count_private=true" />
 
 ⸻
 
@@ -24,7 +23,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=turusentaika&bg_color=00000000&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
 </p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=turusentaika&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&count_private=true" />
 
 ————
 
@@ -34,7 +32,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9c&height=100&section=footer" />
 </p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=turusentaika&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&count_private=true" />
 
 <!--
 **turusentaika/turusentaika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
